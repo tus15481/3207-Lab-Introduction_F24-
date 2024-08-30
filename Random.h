@@ -9,5 +9,8 @@
 #define Random_h
 
 #include <stdio.h>
+char randchar(void);
+
+
 
 #endif /* Random_h */
