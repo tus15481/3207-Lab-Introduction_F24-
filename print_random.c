@@ -1,4 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "Random.h"
 //Given Project code
+/*
 char* rand_string_alloc(size_t size)
 {
      char *s = malloc(size + 1);
@@ -7,3 +11,6 @@ char* rand_string_alloc(size_t size)
      }
      return s;
 }
+ 
+
+*/
