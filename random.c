@@ -3,7 +3,7 @@
 //  Created by william yang on 8/29/24.
 //
 
-#include "Random.h"
+#include "random.h"
 #include <stdlib.h>
 #include <time.h>
 char randchar(void){

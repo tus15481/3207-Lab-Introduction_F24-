@@ -4,7 +4,7 @@
 //
 //  Created by william yang on 8/29/24.
 //
-
+//header file is here for defining header of additional functions
 #ifndef Random_h
 #define Random_h
 
